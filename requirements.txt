@@ -1,0 +1,9 @@
+fastapi
+sqlmodel
+uvicorn
+alembic
+pyJWT
+bcrypt
+passlib
+pydantic[email]
+geopy
